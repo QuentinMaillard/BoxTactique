@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd698b012fb72e5",
+        "id": "29243dd75fceb1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "6939729dfb5956c4",
+            "id": "0ac45808bb9b9d47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Ressources/Ma boite à outils/Mes outils logiciels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb31eed6fb7f7159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb31eed6fb7f7159",
+  "active": "781dc12b6d7f5424",
   "lastOpenFiles": [
-    "3. Ressources/Ma boite à outils/Mon Obsidian.md",
     "3. Ressources/Ma boite à outils/Mes outils logiciels.md",
+    "README.md",
+    "3. Ressources/Ma boite à outils/Mon Obsidian.md",
     "3. Ressources/Ma boite à outils/Mes outils \"spirituels\".md",
     "3. Ressources/Ma bibliothèque/Recommendations de livres pour s'élever.md",
     "2. Concepts utiles/2023031511 - Raison.md",
@@ -186,7 +166,6 @@
     "2. Concepts utiles/2022111501 - Environnement et traitement.md",
     "2. Concepts utiles/2022111501 - Environnement d'un système.md",
     "2. Concepts utiles/2022111501 - Dette technique.md",
-    "2. Concepts utiles/2022111501 - Complexité exponentielle.md",
     "1. Post-Mortems/20230227 - Vers l'ouvrage/1. Synthèse",
     "Post-Mortem/1. Synthèse",
     "Post-Mortem",
