@@ -2,14 +2,15 @@
 
 Voici une sacré dose d'information qui se présente, en plus du reste.
 J'ai réunis ici les philosophies, spiritualités, scientifiques, vulgartisateurs et autres que j'appréciais particulièrement.
+
 Prenez ce qui vous interesse, ne vous forcez pas à tout regarder. Abonnez vous à ce qui vous plait, mettez dans "A regarder plus tard" sur Youtube, faites des listes, mais ne vous pressez pas trop non plus. 
 
-Le savoir est comme une graine, il mettra du temps à produire quelque chose en vous. Inutile de vous surmener 😊
+Le savoir est comme une graine, il prendra son temps à produire quelque chose en vous. Inutile de vous surmener 😊
 
-Prenez des petites notes (sans cataloguer) sur chaque oeuvre ci-dessous, et quand vous le jugez important, transformez le en note de Savoir. 
+Mon conseil: prenez des petites notes (sans cataloguer) sur chaque oeuvre ci-dessous, et quand vous le jugez important, transformez le en note de Savoir. 
 Profitez-en pour commencer à construire votre réseau de connaissance!
 
-## Spiritualités classiques
+## Philosophies classiques
 (Je vous conseille par ailleurs les autres videos des chaines de chaque vidéo, qui ont encore pleins de sujets à offrir.)
 
 ### Stoicisme
@@ -75,7 +76,7 @@ A découvrir soi même.
 📺 [What are the Four Noble Truths? - Doug's Dharma](https://youtu.be/9WXCyqdP7s8?list=PL0akoU_OszRjpRP1nwugCGAJF15oPbBLv)
 
 📖 [Amazon.fr - L'Enseignement du Bouddha - Rahula, Walpola](https://www.amazon.fr/LEnseignement-Bouddha-Dapr%C3%A8s-textes-anciens/dp/2757841823)
-Merveilleux bouquin comme expliqué dans [[Recommendations de livres pour s'élever]]
+Merveilleux bouquin comme expliqué dans [[3. Ressources/Livres/Recommendations]]
 
 ## Développement personnel
 Un complément pratique et riche de la philosophie, à aborder avec attention pour ne pas tomber dans les pièges de la productivité malsaine et l'angoisse.
