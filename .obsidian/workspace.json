@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1cef05424fa4cf6a",
+        "id": "0cd698b012fb72e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1383b1e21b5633fc",
+            "id": "6939729dfb5956c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Post-Mortems/20230227 - Vers l'ouvrage/-- Sommaire.md",
+                "file": "3. Ressources/Ma boite à outils/Mes outils logiciels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb31eed6fb7f7159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4. Projets 🚀/20230302",
+                "query": "0. Introd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Post-Mortems/20230227 - Vers l'ouvrage/-- Sommaire.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Post-Mortems/20230227 - Vers l'ouvrage/-- Sommaire.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Post-Mortems/20230227 - Vers l'ouvrage/-- Sommaire.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,22 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8ba18de11f63bd0",
+  "active": "bb31eed6fb7f7159",
   "lastOpenFiles": [
-    "1. Post-Mortems/20230227 - Vers l'ouvrage/0. Introduction.md",
-    "4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/0. Introduction.md",
-    "1. Post-Mortems/20230227 - Vers l'ouvrage/-- Sommaire.md",
-    "1. Post-Mortems/20230227 - Vers l'ouvrage/1. Capturer.md",
+    "3. Ressources/Ma boite à outils/Mon Obsidian.md",
+    "3. Ressources/Ma boite à outils/Mes outils logiciels.md",
+    "3. Ressources/Ma boite à outils/Mes outils \"spirituels\".md",
+    "3. Ressources/Ma bibliothèque/Recommendations de livres pour s'élever.md",
+    "2. Concepts utiles/2023031511 - Raison.md",
+    "2. Concepts utiles/2023031513 - Intuition.md",
+    "2. Concepts utiles/2023031512 - Volonté.md",
+    "2. Concepts utiles/2023031510 - Travail.md",
+    "2. Concepts utiles/2023031509 - Obstacle.md",
+    "2. Concepts utiles/2023031508 - Philosophie.md",
+    "2. Concepts utiles/2023031507 - Problèmes du développement personnel.md",
+    "2. Concepts utiles/2023031505 - Développement personnel.md",
+    "2. Concepts utiles/2023031504 - Problème.md",
+    "2. Concepts utiles/2023031503 - Objectif.md",
+    "2. Concepts utiles/2023031502 - Outil.md",
+    "2. Concepts utiles/2023031501 - Boite à outils.md",
+    "2. Concepts utiles/2023031500 - Action.md",
+    "2. Concepts utiles/2023031423 - Traitement par un système.md",
+    "2. Concepts utiles/2023031422 - Inputs et outputs.md",
+    "2. Concepts utiles/2023011208 - Habitudes et environnement.md",
+    "2. Concepts utiles/2022111502 - Motivation et Procrastination.md",
+    "2. Concepts utiles/2022111502 - Feedback.md",
+    "2. Concepts utiles/2022111501 - Environnement et traitement.md",
+    "2. Concepts utiles/2022111501 - Environnement d'un système.md",
+    "2. Concepts utiles/2022111501 - Dette technique.md",
+    "2. Concepts utiles/2022111501 - Complexité exponentielle.md",
+    "1. Post-Mortems/20230227 - Vers l'ouvrage/1. Synthèse",
+    "Post-Mortem/1. Synthèse",
+    "Post-Mortem",
     "4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse",
     "4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem",
     "4. Projets 🚀/20230302 - Box Tactique (organisation globale)",
     "4. Projets 🚀",
-    "2. Concepts utiles/2023031505 - Développement personnel.md",
-    "1. Post-Mortems/20230227 - Vers l'ouvrage",
-    "2. Concepts utiles/2023031507 - Problèmes du développement personnel.md",
-    "2. Concepts utiles/2023031500 - Action.md",
-    "2. Concepts utiles/2022110808 - Système.md",
-    "2. Concepts utiles/2022111501 - Complexité.md",
-    "2. Concepts utiles/2022111501 - Complexité exponentielle.md"
+    "1. Post-Mortems/20230227 - Vers l'ouvrage"
   ]
 }

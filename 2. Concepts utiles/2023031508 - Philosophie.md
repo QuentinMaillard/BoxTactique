@@ -1,10 +1,5 @@
 ---
-itérations: 1
-tags: 
-- type/note-de-savoir
-- status/besoin-de-references
-alias: 
-- 'philosophie'
+alias: 'philosophie'
 ---
 
 ---

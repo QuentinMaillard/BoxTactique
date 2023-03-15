@@ -5,9 +5,11 @@ Bienvenue à toi cher visiteur, tu trouveras ici le résumé de ce dont on a dis
 ## Installation 🏗️
 1. Télécharger le zip
 2. Unzip le zip
-3. Créer un coffre à partir du dossier unzipped
-3bis. Ou ajouter ce dossier à un coffre existant
-4. Discover 💫
+3. Ouvrir Obsidian
+	1. Si c'est la première ouverture aller à étape 4.
+	2. Sinon cliquer sur "Open another vault" en bas à gauche, près de l'icône ⚙️
+4. Créer un coffre à partir du dossier unzipped (*Open folder as a vault*)
+5. Enjoy 💫
 
 ## Présentation du coffre 🧱
 

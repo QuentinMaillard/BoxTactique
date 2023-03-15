@@ -1,8 +1,4 @@
 ---
-tags: 
-- type/note-de-savoir
-- status/besoin-de-references
-itérations: 1
 alias: 'développement personnel'
 ---
 

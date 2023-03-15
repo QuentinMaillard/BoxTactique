@@ -1,5 +1,0 @@
-📄 [[4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/0. Introduction|0. Introduction]]
-📄 [[4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/1. Capturer|1. Capturer]]
-📄 [[4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/2. Préparer|2. Préparer]]
-📄 [[4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/3. Oeuvrer|3. Oeuvrer]]
-📄 [[4. Projets 🚀/20230302 - Box Tactique (organisation globale)/Post-Mortem/1. Synthèse/5. Conclusion|5. Conclusion]]

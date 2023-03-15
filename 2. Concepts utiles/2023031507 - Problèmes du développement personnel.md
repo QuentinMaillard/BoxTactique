@@ -1,10 +1,5 @@
 ---
-tags: 
-- type/note-de-savoir
-- status/besoin-de-references
-itérations: 1
-alias: 
-- 'problèmes du développement personnel'
+alias: 'problèmes du développement personnel'
 ---
 
 ---

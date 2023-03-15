@@ -1,9 +1,5 @@
 ---
-itérations: 1
-tags: 
-- type/note-de-savoir
-alias: 
-- 'boite à outils'
+alias: 'boite à outils'
 ---
 
 ---
